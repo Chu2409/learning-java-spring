@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+
+
+
+projects/**/.DS_Store
+projects/**/target/
+projects/**/.vscode/
