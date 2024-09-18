@@ -6,3 +6,4 @@
 projects/**/.DS_Store
 projects/**/target/
 projects/**/.vscode/
+projects/**/bin/
